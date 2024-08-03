@@ -11,7 +11,7 @@
 	<h1 style="color: blue; font-size: 40px;" align="center">WE DEPLOYED OUR APP ON 2 SERVERS</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">WELCOME TO FRONTLINES MEDIA</h1>
         <h1 style="color: orange; font-size: 40px;" align="center">COMPLETED SESSION 27 SUCCESSFULLY</h1>
-	
+	<h1 style="color: black; font-size: 40px;" align="center">Olympics 2024</h1>
 	
 	
 	
