@@ -12,10 +12,10 @@
 	<h1 style="color: red; font-size: 40px;" align="center">WELCOME TO FRONTLINES MEDIA</h1>
 <!--
 <h1 style="color: orange; font-size: 40px;" align="center">COMPLETED SESSION 27 SUCCESSFULLY</h1>  
--->
+
 	<h1 style="color: black; font-size: 40px;" align="center">Olympics 2024</h1>
 	<h1 style="color: olive; font-size: 40px;" align="center">Excited to see Quaterfinals</h1>
-	
+-->	
 	
 	
 	
